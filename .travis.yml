@@ -6,4 +6,5 @@ python:
   - "3.3"
   - "3.4"
 
-script: hello
+script:
+  - python hello.py
